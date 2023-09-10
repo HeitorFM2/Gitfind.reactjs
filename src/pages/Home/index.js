@@ -2,7 +2,7 @@ import background from '../../assets/background.png';
 import ItemList from '../../components/ItemList';
 import Header from '../../components/Header';
 import {useState} from 'react';
-import {Contents, Backgroundimg, Info, Profile, ImgProfile, Repositories, DivProfile, ProfileDesc} from './style';
+import {Contents, Backgroundimg, Info, Profile, ImgProfile, Repositories, DivProfile, ProfileDesc} from '../../styles/home';
 
 function App() {
   const[currentUser,setCurrentUser] = useState('');

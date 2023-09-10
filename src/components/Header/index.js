@@ -1,4 +1,4 @@
-import { HeaderStyle, SearchProfile, IconHeader} from "./style"
+import { HeaderStyle, SearchProfile, IconHeader} from "../../styles/header"
 import { useState } from "react"
 import background from '../../assets/background.png';
 

@@ -1,4 +1,4 @@
-import { ListItem } from "./style"
+import { ListItem } from "../../styles/itemList"
 
 export default function ItemList({title, description, html_url}) {
   return (
